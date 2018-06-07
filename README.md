@@ -8,4 +8,4 @@ This repository contains my assignments
 [graded assignment 2](https://github.com/ramonsmits99/Assignments-/blob/master/Graded_assignment_2%20(1).ipynb)
 
 [exam_june_7_2018] (https://github.com/ramonsmits99/Assignments-/blob/master/exam_june_7_2018%20Ram%C3%B3n%20Smits%20(1).html)
-
+[Exam_student] (https://github.com/ramonsmits99/Assignments-/blob/master/Exam_student.html)
